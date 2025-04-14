@@ -5,6 +5,7 @@
 
 ---
 
+
 ## 👨💻 The development team
 - **Nikolaev Maxim Dmitrievich**
   [📧 University mail](mailto:nikolaev.m.d2@edu.mirea.ru ) | [Personal GitHub](https://github.com/MaxNiko2903 )  
@@ -56,13 +57,21 @@ The project is being developed within the framework of the discipline **"A start
 ---
 
 ## 📅 Current Status
-- **Version**: 0.0 Beta
-- **Last Updated**: April 13, 2025
+- **Version**: 0.0 Beta (No release)
+- **Last Updated**: April 14, 2025
+
+---
+
+<p align="center">
+  <a href="https://github.com/MaxNiko2903/GarderobusAI/wiki">
+    <img src="https://img.shields.io/badge/Learn%20More%20on%20Wiki-blueviolet?style=for-the-badge&logo=github" alt="Wiki Link">
+  </a>
+</p>
 
 ---
 ## 💖 Support Us
 If you like this project, consider supporting us:
-- [Sponsor via Tinkoff](https://www.tinkoff.ru/rm/r_dVLGDQpsBP.HRIPmEBdJi/CTzry72351)
+- [Sponsor via T-bank](https://www.tinkoff.ru/rm/r_dVLGDQpsBP.HRIPmEBdJi/CTzry72351)
 
 ---
 
