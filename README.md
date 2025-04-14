@@ -22,14 +22,14 @@ The project is being developed within the framework of the discipline **"A start
 
 ---
 ## 🌈 Features
-- **Weather-based outfit recommendations**: Uses OpenWeather API for real-time temperature, humidity, and wind data.
+- **Weather-based outfit recommendations**: Uses <a href="https://openweathermap.org/">OpenWeather API</a> for real-time temperature, humidity, and wind data.
 - **IoT integration**: Incorporates data from wearable sensors for personalized comfort analysis.
 - **AI-powered personalization**: Learns your style preferences and adapts recommendations over time.
-
 ---
 
+
 ## 🚀 How It Works
-1. Collect weather data using OpenWeather API.
+1. Collect weather data using <a href="https://openweathermap.org/">OpenWeather API</a>.
 2. Combine IoT sensor readings (e.g., temperature, humidity).
 3. Use AI to analyze and recommend clothing that matches the conditions and your style.
 
